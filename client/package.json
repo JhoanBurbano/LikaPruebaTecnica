@@ -1,0 +1,24 @@
+{
+  "name": "front-vue",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "boostrap": "^2.0.0",
+    "swiper": "^7.4.1",
+    "vite": "^2.7.12",
+    "vite-plugin-ssr": "^0.3.44",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.12",
+    "vue3-carousel": "^0.1.35"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.0",
+    "scss": "^0.2.4",
+    "stylus": "^0.56.0"
+  }
+}
